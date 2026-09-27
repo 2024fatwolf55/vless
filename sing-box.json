@@ -53,22 +53,22 @@
       "mtu": 1300,
       "peers": [
         {
-          "address": "188.114.97.40",
+          "address": "8.6.112.47",
           "allowed_ips": [
             "0.0.0.0/0",
             "::/0"
           ],
           "persistent_keepalive_interval": 25,
-          "port": 3476,
+          "port": 3138,
           "public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
           "reserved": [
-            133,
-            66,
-            178
+            40,
+            169,
+            22
           ]
         }
       ],
-      "private_key": "6Gp+xXxlRzqLMvCjKEEe/njDYEUE1T36Tr795GCcBV4=",
+      "private_key": "eEzERveJeAG+xmCFQWq41wS5mfzsqX06cWP14ExUimk=",
       "tag": "\ud83c\uddee\ud83c\uddf7Iran",
       "type": "wireguard",
       "workers": 2
@@ -82,22 +82,22 @@
       "mtu": 1300,
       "peers": [
         {
-          "address": "8.6.112.220",
+          "address": "8.6.112.141",
           "allowed_ips": [
             "0.0.0.0/0",
             "::/0"
           ],
           "persistent_keepalive_interval": 25,
-          "port": 987,
+          "port": 8319,
           "public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
           "reserved": [
-            194,
-            84,
-            76
+            67,
+            85,
+            245
           ]
         }
       ],
-      "private_key": "8JU7h7ADBROf6jAuZxivOvCAAILnsRlmH0cZcICgR1E=",
+      "private_key": "gIkte/Wpn5Y+TYwfBzDf6jW6Iz9wNNVuHjYg1J3+N1k=",
       "tag": "\ud83c\uddea\ud83c\uddfaEurope",
       "type": "wireguard",
       "workers": 2
