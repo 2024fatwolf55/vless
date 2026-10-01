@@ -1,5 +1,5 @@
 # Generated configs for clash-meta with WireGuard proxies that have amnezia v2 parameters.
-# Time is: 2026-09-30T14:41:51.281813
+# Time is: 2026-10-01T15:10:50.518567
 
 mixed-port: 7890
 ipv6: false
@@ -67,11 +67,11 @@ warp-dialer-common: &warp-dialer-common
   type: wireguard
   ip: 172.16.0.2/32
   ip-version: ipv4
-  private-key: CIRphAOexnU/xtrOFK1lPvP/tGADvO2Lx9qPBgwEykY=
+  private-key: kK+n6W3eoxul6QfWzoLIX53untg3Na+KnbTC3p719Uc=
   public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
   allowed-ips:
     - 0.0.0.0/0
-  reserved: WfSo
+  reserved: h66k
   udp: true
   mtu: 1280
   amnezia-wg-option:
@@ -90,11 +90,11 @@ warp-entry-common: &warp-entry-common
   type: wireguard
   ip: 172.16.0.3/32
   ip-version: ipv4
-  private-key: 8Gt4XlOrLRrab+TG9VOULBI308/aePuM2A99SnIp3Wg=
+  private-key: GCJGFoYnEf8+gpH82ggTN3HH6L8j57u1rNiwe6HeWVY=
   public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
   allowed-ips:
     - 0.0.0.0/0
-  reserved: sy7H
+  reserved: Y2Il
   udp: true
   mtu: 1120
 
@@ -114,57 +114,57 @@ masque-common: &masque-common
 proxies:
   - name: IR-DIALER-01
     <<: *warp-dialer-common
-    server: 188.114.97.188
-    port: 939
+    server: 8.6.112.222
+    port: 1070
 
   - name: EU-ENTRY-01
     <<: *warp-entry-common
-    server: 8.6.112.135
-    port: 942
+    server: 8.6.112.120
+    port: 987
     dialer-proxy: IR-DIALER-01
 
   - name: IR-DIALER-02
     <<: *warp-dialer-common
-    server: 188.114.97.78
-    port: 1180
+    server: 8.6.112.224
+    port: 7103
 
   - name: EU-ENTRY-02
     <<: *warp-entry-common
-    server: 188.114.97.190
-    port: 890
+    server: 188.114.97.204
+    port: 1014
     dialer-proxy: IR-DIALER-02
 
   - name: IR-DIALER-03
     <<: *warp-dialer-common
-    server: 8.6.112.241
-    port: 1014
+    server: 188.114.97.79
+    port: 1018
 
   - name: EU-ENTRY-03
     <<: *warp-entry-common
-    server: 188.114.97.97
-    port: 891
+    server: 188.114.97.252
+    port: 1018
     dialer-proxy: IR-DIALER-03
 
   - name: IR-DIALER-04
     <<: *warp-dialer-common
-    server: 188.114.97.115
-    port: 7152
+    server: 188.114.97.71
+    port: 945
 
   - name: EU-ENTRY-04
     <<: *warp-entry-common
-    server: 8.6.112.189
-    port: 1701
+    server: 188.114.97.34
+    port: 1387
     dialer-proxy: IR-DIALER-04
 
   - name: IR-DIALER-05
     <<: *warp-dialer-common
-    server: 8.6.112.177
-    port: 8886
+    server: 188.114.97.47
+    port: 1843
 
   - name: EU-ENTRY-05
     <<: *warp-entry-common
-    server: 8.6.112.139
-    port: 903
+    server: 188.114.97.242
+    port: 942
     dialer-proxy: IR-DIALER-05
 
   - name: MASQUE
