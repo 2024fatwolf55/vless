@@ -2,405 +2,405 @@
   "ipv4": [
     {
       "colo": "LAX",
-      "ip": "188.114.97.222",
-      "latency": 98,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "104.16.140.241",
-      "latency": 98,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "104.16.92.219",
-      "latency": 99,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "104.18.79.38",
+      "ip": "188.114.96.107",
       "latency": 100,
       "line": "CF",
       "loss": 0,
       "node": "NETCUP",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     },
     {
       "colo": "LAX",
-      "ip": "104.19.220.197",
+      "ip": "172.67.69.74",
       "latency": 100,
       "line": "CF",
       "loss": 0,
       "node": "NETCUP",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     },
     {
       "colo": "LAX",
-      "ip": "188.114.98.234",
-      "latency": 100,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "172.66.147.106",
-      "latency": 100,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "104.17.148.184",
-      "latency": 102,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "188.114.99.202",
+      "ip": "104.16.92.162",
       "latency": 103,
       "line": "CF",
       "loss": 0,
       "node": "NETCUP",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     },
     {
       "colo": "LAX",
-      "ip": "172.67.138.76",
-      "latency": 103,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "104.18.79.88",
-      "latency": 104,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "172.66.147.165",
-      "latency": 105,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "8.6.112.66",
-      "latency": 106,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "104.19.220.228",
-      "latency": 107,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "104.16.0.115",
-      "latency": 107,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "188.114.99.38",
-      "latency": 107,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "104.20.29.6",
-      "latency": 108,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "162.159.46.212",
+      "ip": "162.159.193.15",
       "latency": 109,
       "line": "CF",
       "loss": 0,
       "node": "NETCUP",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     },
     {
       "colo": "LAX",
-      "ip": "172.67.158.120",
-      "latency": 109,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "188.114.97.131",
-      "latency": 109,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "104.20.29.160",
-      "latency": 111,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "190.93.247.131",
+      "ip": "104.16.92.107",
       "latency": 112,
       "line": "CF",
       "loss": 0,
       "node": "NETCUP",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     },
     {
       "colo": "LAX",
-      "ip": "172.67.158.140",
-      "latency": 112,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "172.67.158.173",
-      "latency": 112,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "188.114.98.203",
-      "latency": 112,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "172.66.147.170",
+      "ip": "188.114.99.28",
       "latency": 113,
       "line": "CF",
       "loss": 0,
       "node": "NETCUP",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     },
     {
       "colo": "LAX",
-      "ip": "104.17.148.117",
+      "ip": "8.6.112.246",
       "latency": 114,
       "line": "CF",
       "loss": 0,
       "node": "NETCUP",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     },
     {
       "colo": "LAX",
-      "ip": "172.64.146.158",
+      "ip": "8.6.112.207",
       "latency": 114,
       "line": "CF",
       "loss": 0,
       "node": "NETCUP",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     },
     {
       "colo": "LAX",
-      "ip": "104.20.29.147",
+      "ip": "104.16.148.186",
       "latency": 115,
       "line": "CF",
       "loss": 0,
       "node": "NETCUP",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     },
     {
       "colo": "LAX",
-      "ip": "188.114.97.189",
-      "latency": 115,
-      "line": "CF",
-      "loss": 0,
-      "node": "NETCUP",
-      "speed": 0,
-      "time": "2026-10-04 23:16:41"
-    },
-    {
-      "colo": "LAX",
-      "ip": "162.159.46.246",
+      "ip": "104.16.148.253",
       "latency": 116,
       "line": "CF",
       "loss": 0,
       "node": "NETCUP",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     },
     {
       "colo": "LAX",
-      "ip": "104.17.121.142",
+      "ip": "104.16.148.165",
       "latency": 117,
       "line": "CF",
       "loss": 0,
       "node": "NETCUP",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     },
     {
       "colo": "LAX",
-      "ip": "188.114.97.84",
+      "ip": "172.67.138.78",
+      "latency": 117,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "104.16.0.28",
+      "latency": 117,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "172.67.138.148",
       "latency": 118,
       "line": "CF",
       "loss": 0,
       "node": "NETCUP",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     },
     {
       "colo": "LAX",
-      "ip": "104.17.222.93",
+      "ip": "104.20.29.9",
+      "latency": 118,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "172.67.69.98",
+      "latency": 118,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "104.20.6.239",
+      "latency": 119,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "162.159.195.185",
       "latency": 120,
       "line": "CF",
       "loss": 0,
       "node": "NETCUP",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     },
     {
       "colo": "LAX",
-      "ip": "141.101.115.17",
-      "latency": 122,
+      "ip": "104.17.222.45",
+      "latency": 121,
       "line": "CF",
       "loss": 0,
       "node": "NETCUP",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "172.66.147.124",
+      "latency": 123,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "162.159.193.221",
+      "latency": 124,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "188.114.98.85",
+      "latency": 124,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "190.93.247.156",
+      "latency": 124,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "162.159.243.43",
+      "latency": 125,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "190.93.245.43",
+      "latency": 126,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "188.114.96.64",
+      "latency": 127,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "172.66.147.145",
+      "latency": 127,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "104.16.148.150",
+      "latency": 127,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "141.101.115.95",
+      "latency": 128,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "190.93.247.186",
+      "latency": 129,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "104.26.4.1",
+      "latency": 130,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "104.16.148.88",
+      "latency": 130,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "188.114.97.160",
+      "latency": 131,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "104.20.29.8",
+      "latency": 131,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
+    },
+    {
+      "colo": "LAX",
+      "ip": "188.114.96.163",
+      "latency": 132,
+      "line": "CF",
+      "loss": 0,
+      "node": "NETCUP",
+      "speed": 0,
+      "time": "2026-10-05 03:01:32"
     }
   ],
   "ipv6": [
     {
       "colo": "Default",
-      "ip": "2a06:98c7:37cc:ca4a:f263:773c:e48f:92",
+      "ip": "2606:4700:20ba:f9dd:6ff0:2565:ebe:85c3",
       "latency": 0,
       "line": "CF",
       "loss": 0,
       "node": "Diana",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     },
     {
       "colo": "Default",
-      "ip": "2803:f800:e8d3:f376:17d1:24a9:2885:b5ce",
+      "ip": "2c0f:f248:f2ac:9543:44d6:f5c7:503a:960a",
       "latency": 0,
       "line": "CF",
       "loss": 0,
       "node": "Diana",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     },
     {
       "colo": "Default",
-      "ip": "2c0f:f248:1b6a:e842:a928:c2e2:f62f:aa23",
+      "ip": "2400:cb00:32e4:3032:dc58:a125:69c0:8a3c",
       "latency": 0,
       "line": "CF",
       "loss": 0,
       "node": "Diana",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     },
     {
       "colo": "Default",
-      "ip": "2400:cb00:94b1:bd99:a2a3:67db:8140:4a22",
+      "ip": "2803:f800:da6f:9b3:5e8e:20f2:6ff1:e83b",
       "latency": 0,
       "line": "CF",
       "loss": 0,
       "node": "Diana",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     },
     {
       "colo": "Default",
-      "ip": "2400:cb00:24f5:ef39:1c6e:6807:2367:1bd0",
+      "ip": "2405:8100:c015:196c:3aba:181c:13ba:10ea",
       "latency": 0,
       "line": "CF",
       "loss": 0,
       "node": "Diana",
       "speed": 0,
-      "time": "2026-10-04 23:16:41"
+      "time": "2026-10-05 03:01:32"
     }
   ]
 }
